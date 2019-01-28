@@ -384,6 +384,3 @@ void _drawSmoothLine(Canvas canvas, Paint paint, List<Point> points) {
 * 源码 
 
 详见 GitHub dev 分支 [https://github.com/123lxw123/charts](https://github.com/123lxw123/charts)
-
-本文版权属于再惠研发团队，欢迎转载，转载请保留出处。[@123lxw123](https://github.com/123lxw123)
- 
