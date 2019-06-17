@@ -53,7 +53,7 @@ class LineRenderer<D> extends BaseCartesianRenderer<D> {
   /// True if any series has a measureUpperBoundFn and measureLowerBoundFn.
   ///
   /// Used to enable drawing confidence interval areas segments.
-  bool _hasMeasureBounds;
+  bool _hasMeasureBounds = false;
 
   /// Store a map of series drawn on the chart, mapped by series name.
   ///
