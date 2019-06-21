@@ -21,7 +21,7 @@ import 'package:charts_common/common.dart' as common
         TextDirection,
         TextMeasurement,
         TextStyle;
-import 'package:flutter/rendering.dart'
+import 'package:flutter_web/rendering.dart'
     show Color, TextBaseline, TextPainter, TextSpan, TextStyle;
 
 /// Flutter implementation for text measurement and painter.

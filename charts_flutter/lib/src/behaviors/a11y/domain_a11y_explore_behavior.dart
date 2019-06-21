@@ -15,7 +15,7 @@
 
 import 'package:charts_common/common.dart' as common
     show DomainA11yExploreBehavior, VocalizationCallback, ExploreModeTrigger;
-import 'package:flutter/widgets.dart' show hashValues;
+import 'package:flutter_web/widgets.dart' show hashValues;
 import '../chart_behavior.dart' show ChartBehavior, GestureType;
 
 /// Behavior that generates semantic nodes for each domain.

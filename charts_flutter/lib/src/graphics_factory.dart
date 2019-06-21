@@ -15,7 +15,7 @@
 
 import 'package:charts_common/common.dart' as common
     show GraphicsFactory, LineStyle, TextElement, TextStyle;
-import 'package:flutter/widgets.dart' show BuildContext, MediaQuery;
+import 'package:flutter_web/widgets.dart' show BuildContext, MediaQuery;
 import 'line_style.dart' show LineStyle;
 import 'text_element.dart' show TextElement;
 import 'text_style.dart' show TextStyle;

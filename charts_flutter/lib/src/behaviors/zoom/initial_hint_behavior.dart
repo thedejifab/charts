@@ -13,7 +13,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import 'package:flutter/widgets.dart' show AnimationController;
+import 'package:flutter_web/widgets.dart' show AnimationController;
 
 import 'package:charts_common/common.dart' as common
     show BaseChart, ChartBehavior, InitialHintBehavior;

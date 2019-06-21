@@ -16,7 +16,7 @@
 import 'dart:math' show Rectangle;
 import 'package:charts_common/common.dart' as common
     show ChartCanvas, Color, SymbolRenderer;
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/widgets.dart';
 import 'chart_canvas.dart' show ChartCanvas;
 import 'graphics_factory.dart' show GraphicsFactory;
 

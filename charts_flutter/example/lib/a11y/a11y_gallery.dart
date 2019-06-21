@@ -12,7 +12,7 @@
 // WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 // See the License for the specific language governing permissions and
 // limitations under the License.
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import '../gallery_scaffold.dart';
 import 'domain_a11y_explore_bar_chart.dart';
 

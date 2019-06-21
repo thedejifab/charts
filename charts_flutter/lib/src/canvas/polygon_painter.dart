@@ -14,7 +14,7 @@
 // limitations under the License.
 
 import 'dart:math' show Point, Rectangle;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:charts_common/common.dart' as common show Color;
 import 'package:charts_flutter/src/util/monotonex.dart';
 

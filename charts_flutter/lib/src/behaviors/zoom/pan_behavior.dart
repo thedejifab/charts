@@ -16,7 +16,7 @@
 import 'dart:math' show max, pow, Point;
 import 'dart:ui';
 
-import 'package:flutter/widgets.dart' show AnimationController;
+import 'package:flutter_web/widgets.dart' show AnimationController;
 
 import 'package:charts_common/common.dart' as common
     show BaseChart, ChartBehavior, PanBehavior, PanningCompletedCallback;

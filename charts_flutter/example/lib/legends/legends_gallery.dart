@@ -13,7 +13,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import '../gallery_scaffold.dart';
 import 'datum_legend_options.dart';
 import 'datum_legend_with_measures.dart';

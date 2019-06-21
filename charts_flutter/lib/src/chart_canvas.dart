@@ -26,7 +26,7 @@ import 'package:charts_common/common.dart' as common
         StyleFactory,
         TextElement,
         TextDirection;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'text_element.dart' show TextElement;
 import 'canvas/circle_sector_painter.dart' show CircleSectorPainter;
 import 'canvas/line_painter.dart' show LinePainter;

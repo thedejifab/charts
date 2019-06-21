@@ -15,8 +15,8 @@
 
 import 'package:charts_common/common.dart' as common;
 import 'package:charts_flutter/src/util/color.dart';
-import 'package:flutter/widgets.dart';
-import 'package:flutter/material.dart'
+import 'package:flutter_web/widgets.dart';
+import 'package:flutter_web/material.dart'
     show GestureDetector, GestureTapUpCallback, TapUpDetails, Theme;
 
 import '../../symbol_renderer.dart';

@@ -14,7 +14,7 @@
 // limitations under the License.
 
 import 'package:example/line_chart/smooth.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import '../gallery_scaffold.dart';
 import 'animation_zoom.dart';
 import 'area_and_line.dart';

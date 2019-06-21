@@ -14,8 +14,8 @@
 // limitations under the License.
 
 import 'dart:math' show min;
-import 'package:flutter/rendering.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/rendering.dart';
+import 'package:flutter_web/widgets.dart';
 
 /// Strategy for building legend from legend entry widgets.
 abstract class LegendLayout {

@@ -14,7 +14,7 @@
 // limitations under the License.
 
 import 'dart:math' show cos, sin, Point;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:charts_common/common.dart' as common show CanvasPie;
 import 'circle_sector_painter.dart' show CircleSectorPainter;
 

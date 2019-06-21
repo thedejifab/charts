@@ -26,9 +26,9 @@ import 'package:charts_common/common.dart' as common
         SelectionModelType,
         Series,
         Performance;
-import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
-import 'package:flutter/scheduler.dart';
+import 'package:flutter_web/material.dart';
+import 'package:flutter_web/rendering.dart';
+import 'package:flutter_web/scheduler.dart';
 import 'package:logging/logging.dart';
 import 'package:meta/meta.dart' show required;
 import 'chart_canvas.dart' show ChartCanvas;

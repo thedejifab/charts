@@ -20,7 +20,7 @@ import 'package:charts_common/common.dart' as common
         LinePointHighlighterFollowLineType,
         SelectionModelType,
         SymbolRenderer;
-import 'package:flutter/widgets.dart' show hashValues;
+import 'package:flutter_web/widgets.dart' show hashValues;
 import 'package:meta/meta.dart' show immutable;
 
 import 'chart_behavior.dart' show ChartBehavior, GestureType;

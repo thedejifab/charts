@@ -15,7 +15,7 @@
 
 import 'dart:async' show Timer;
 import 'dart:math' show Point;
-import 'package:flutter/material.dart'
+import 'package:flutter_web/material.dart'
     show
         BuildContext,
         GestureDetector,

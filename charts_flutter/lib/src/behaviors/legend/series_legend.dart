@@ -26,7 +26,7 @@ import 'package:charts_common/common.dart' as common
         SelectionModelType,
         TextStyleSpec;
 import 'package:collection/collection.dart' show ListEquality;
-import 'package:flutter/widgets.dart'
+import 'package:flutter_web/widgets.dart'
     show BuildContext, EdgeInsets, Widget, hashValues;
 import 'package:meta/meta.dart' show immutable;
 import '../../chart_container.dart' show ChartContainerRenderObject;

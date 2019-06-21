@@ -14,7 +14,7 @@
 // limitations under the License.
 
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'dart:developer';
 import 'app_config.dart';
 import 'drawer.dart';
