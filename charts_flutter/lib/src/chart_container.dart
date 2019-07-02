@@ -139,7 +139,7 @@ class ChartContainerRenderObject<D> extends RenderCustomPaint
       _lastConfigurationChangeTime = currentTime;
 
       if (lastConfigurationBelowThreshold) {
-        _chartState.resetChartDirtyFlag();
+        //_chartState.resetChartDirtyFlag();
         _log.warning(
             'Chart configuration is changing more frequent than threshold'
             ' of $configurationChangeThresholdMs. Check if your behavior, axis,'
